@@ -1,0 +1,5 @@
+{
+  "name": "CBSE Question Paper Generator",
+  "description": "An AI-powered web application for teachers to generate, edit, and export CBSE question papers for classes 9-12, ensuring NCERT alignment and print-readiness.",
+  "requestFramePermissions": []
+}
